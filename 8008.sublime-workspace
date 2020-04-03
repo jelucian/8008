@@ -1,0 +1,319 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"writ",
+				"writes"
+			],
+			[
+				"write",
+				"writed1"
+			],
+			[
+				"Shi",
+				"SHIFT_REG"
+			],
+			[
+				"bit",
+				"bit9"
+			],
+			[
+				"wri",
+				"writed1"
+			],
+			[
+				"L",
+				"LOAD_DATA"
+			],
+			[
+				"reads",
+				"read_strobe"
+			],
+			[
+				"TX",
+				"TX_PED"
+			],
+			[
+				"INT",
+				"INT_ACK"
+			],
+			[
+				"rst",
+				"rst_s"
+			],
+			[
+				"BIT",
+				"BIT_COUNTER_OUT"
+			],
+			[
+				"end",
+				"endcase"
+			],
+			[
+				"B",
+				"BIT_TIME_COUNTER_IN"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "/**********************************************\n *\n *\n *\n *\n *\n *\n *\n *\n *\n *",
+			"file": "src/TOP.v",
+			"file_size": 0,
+			"file_write_time": 132303588936357262,
+			"settings":
+			{
+				"buffer_size": 77,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 239.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"anaconda",
+				"AnacondaGO: Explore Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/jesusluciano/Desktop/8008"
+	],
+	"file_history":
+	[
+		"/Users/jesusluciano/Desktop/Bash_Scripts/func_test.sh",
+		"/Users/jesusluciano/Desktop/grep",
+		"/Users/jesusluciano/Desktop/SOC_Design/READ.ME",
+		"/Volumes/BOOTCAMP/Users/Jesus Luciano/Desktop/SOC_Design/Source/debounce.v",
+		"/Users/jesusluciano/Desktop/SOC_Design/Source/PED.v",
+		"/Users/jesusluciano/Desktop/SOC_Design/Source/dff.v",
+		"/Users/jesusluciano/Desktop/SOC_Design/Source/Transmit_Engine.v",
+		"/Users/jesusluciano/Desktop/SOC_Design/Source/CECS460_Transmit_Engine_Top_Level.v",
+		"/Users/jesusluciano/Desktop/SAP-1/SAP-1/Source/SAP-1.v",
+		"/Users/jesusluciano/Desktop/SAP-1/SAP-1/Source/ProgramCounter.v",
+		"/untitled.v",
+		"/Users/jesusluciano/Desktop/anaconda-2.1.17/README.md",
+		"/Users/jesusluciano/Desktop/anaconda-2.1.17/anaconda.py",
+		"/Users/jesusluciano/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/jesusluciano/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/jesusluciano/Documents/School/CSULB/Spring 2018/EE 381/untitled.py",
+		"/Users/jesusluciano/Documents/School/CSULB/Spring 2018/EE 381/sumbit",
+		"/untitled"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/Users/jesusluciano/Desktop/8008"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/TOP.v",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 77,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								47
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Verilog/Verilog.tmLanguage",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.browse":
+	{
+		"height": 102.0
+	},
+	"output.exec":
+	{
+		"height": 102.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 358.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
